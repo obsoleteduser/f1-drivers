@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-direction: row;
+    width: 100%;
+    user-select: none;
+    padding: 1rem;
+}
+
+nav span{
+    cursor: pointer;
+
+}
